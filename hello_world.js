@@ -1,1 +1,1 @@
-console.log("Hello from example-repo!");
+console.log("Git is awesome!");
